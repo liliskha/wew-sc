@@ -1,0 +1,2 @@
+# wew-sc
+script
